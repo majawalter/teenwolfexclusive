@@ -8,6 +8,13 @@
 
 }
 h4{
-  color: white;
+  color: #b2b2b2;
+  text-align: left;
+  font-family: fantasy;
+}
 
+button {
+font-family: fantasy;
+background-color: #555555;
+color: #3f2533;
 }

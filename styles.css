@@ -3,14 +3,19 @@
   background-repeat: no-repeat;
 
   background-size: contain;
-  height: 750px;
+  height: 850px;
 }
 
 .main_button{
   margin:200px auto;
   width:20%;
+  background-color: #555555;
+  border-color: #555555;
 }
 .logo{
  margin:-100px auto;
+}
 
+a {
+font-family: fantasy;
 }
