@@ -1,0 +1,6 @@
+.background_img{
+background-image: url("backgroundpages.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: contain;
+}
