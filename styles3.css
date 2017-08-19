@@ -1,6 +1,13 @@
-.background_img{
+body{
 background-image: url("backgroundpages.jpg");
-background-repeat: no-repeat;
-background-attachment: fixed;
-background-size: contain;
+}
+
+h1{
+color: #7A91A9;
+font-family: "Mate SC", serif;
+text-align: center;
+text-shadow: 2px 2px #2C3539;
+text-decoration-line: underline;
+line-height: 2 normal;
+font-size: 40px;
 }
